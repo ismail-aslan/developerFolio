@@ -356,7 +356,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+49 1523 585278",
-  email_address: "ismailaslan10970@gmail.com"
+  email_address: "ismailaslan1097@gmail.com"
 };
 
 // Twitter Section
