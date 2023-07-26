@@ -103,6 +103,28 @@ export default function socialMedia() {
           <span></span>
         </a>
       ) : null}
+      {socialMediaLinks.whatsapp ? (
+        <a
+          href={socialMediaLinks.whatsapp}
+          className="icon-button whatsapp"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i className="fab fa-whatsapp"></i>
+          <span></span>
+        </a>
+      ) : null}
+      {socialMediaLinks.phone ? (
+        <a
+          href={socialMediaLinks.phone}
+          className="icon-button github"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i className="fa fa-phone"></i>
+          <span></span>
+        </a>
+      ) : null}
 
       {socialMediaLinks.stackoverflow ? (
         <a
