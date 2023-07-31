@@ -33,10 +33,10 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/Ismail-Aslan",
+  github: "https://github.com/ismail-aslan",
   linkedin: "https://www.linkedin.com/in/ismailaslan-/",
   gmail: "ismailaslan1097@gmail.com",
-  whatsapp: "https://api.whatsapp.com/send?phone=905301401097",
+  whatsapp: "https://api.whatsapp.com/send?phone=4915235852787",
   phone: "tel:+4915235852787",
   display: true // Set true to display this section, defaults to false
 };
@@ -133,7 +133,7 @@ const techStack = {
     },
     {
       Stack: "Programming",
-      progressPercentage: "60%"
+      progressPercentage: "85%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
