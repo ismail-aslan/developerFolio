@@ -203,7 +203,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nftinit.com/"
+          url: "https://nftinit.com/"
         }
         //  you can add extra buttons here.
       ]
